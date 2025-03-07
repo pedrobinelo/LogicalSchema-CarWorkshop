@@ -35,7 +35,7 @@ After creating the logical schema, create the SQL Script to create the database 
 
 ## ✅ Solution
 
-<img align="center" src="https://github.com/pedrobinelo/LogicalSchema-CarWorkshop/blob/main/er.png" width=""/> 
+<img align="center" src="https://github.com/pedrobinelo/LogicalSchema-CarWorkshop/blob/main/ER-Design.png" width=""/> 
 
 ## 💻 Technologies 
 
